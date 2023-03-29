@@ -120,7 +120,7 @@
   /* Main HERO-section */
 
   .section.hero {
-    max-width: 768px;
+    max-width: 100%;
     height: 436px;
   }
 
